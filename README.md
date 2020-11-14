@@ -1,5 +1,7 @@
-### Hello there 👩🏻‍💻
-![image](https://github.com/OlfaKaroui/OlfaKaroui/blob/master/hellothere.gif)
+<p align="center">
+  <img src="https://github.com/OlfaKaroui/OlfaKaroui/blob/master/hellothere.gif" alt="Hello there!" height="600" />
+</p>
+
 <!--
 **OlfaKaroui/OlfaKaroui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
